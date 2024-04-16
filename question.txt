@@ -1,0 +1,13 @@
+\question
+{type = mcq}
+{difficulty = 0.2}
+{text = C is a language}
+{opt = Functional, Procedural, Objects, Events}
+{ans = Functional}
+
+\question
+{type = mcq}
+{difficulty = 0.2}
+{text = C++ is a language}
+{opt = Functional, Procedural, Objects, Events}
+{ans = Procedural}
